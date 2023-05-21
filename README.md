@@ -1,6 +1,5 @@
 Certainly! Here's an example of a README.md file for your GitHub repository, assuming the repository contains code for a CRUD application using Django, Ajax, and jQuery:
 
-```
 # CRUD Using Django, Ajax, and jQuery
 
 This repository contains code for a simple CRUD (Create, Read, Update, Delete) application built using Django, Ajax, and jQuery. The application allows you to perform basic CRUD operations on a database using asynchronous requests.
@@ -8,9 +7,7 @@ This repository contains code for a simple CRUD (Create, Read, Update, Delete) a
 ## Installation
 
 1. Clone the repository to your local machine using the following command:
-   ```
    git clone https://github.com/your-username/your-repo.git
-   ```
 
 2. Navigate to the project directory:
    ```
