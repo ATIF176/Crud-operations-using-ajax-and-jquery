@@ -7,8 +7,7 @@ This repository contains code for a simple CRUD (Create, Read, Update, Delete) a
 ## Installation
 
 1. Clone the repository to your local machine using the following command:
-   git clone https://github.com/your-username/your-repo.git
-
+  https://github.com/ATIF176/Crud-operations-using-ajax-and-jquery.git
 2. Navigate to the project directory:
    ```
    cd Crud-using-django-ajax-and-jquery
